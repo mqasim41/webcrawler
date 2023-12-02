@@ -1,72 +1,67 @@
 <?php
 
-
-function getHtmlContent($url) {
-    $htmlContent = file_get_contents($url);    
-    return $htmlContent;
-}
-
-
 require 'C:\xampp\htdocs\vendor\autoload.php';
+require 'C:\xampp\htdocs\webcrawler\html_processor.php';
+require 'C:\xampp\htdocs\webcrawler\search.php';
+use Qasim\Preprocessor;
+use Qasim\Search;
+function writeArrayToJsonFile(array $crawlingResults, string $filename)
+{   
+    
+    if (file_exists($filename)) {
+        $existingContent = file_get_contents($filename);
+        $existingData = json_decode($existingContent, true);
 
-use Symfony\Component\BrowserKit\HttpBrowser;
-
-function preprocessHtmlContent($url) {
-    $httpClient = new HttpBrowser();
-
-    try {
-        
-        $crawler = $httpClient->request('GET', $url);
-        $title = $crawler->filter('title')->text();
-        $links = $crawler->filter('a')->extract(['href']);
-        // Filter out external links and non-article links
-        $filteredLinks = array_filter($links, function ($link) {
-            return strpos($link, 'wikipedia.org/wiki/') !== false;
-        });
-        $paragraphs = $crawler->filter('p')->each(function ($node) {
-            return $node->text();
-        });
-        $result = [
-            'url' => $url,
-            'title' => $title,
-            'paragraphs' => $paragraphs,
-            'wikipediaLinks' => $filteredLinks
-        ];
-        return $result;
-
-    } catch (\Exception $e) {
-        return ['error' => $e->getMessage()];
+        if (json_last_error() === JSON_ERROR_NONE) {
+            $mergedData = array_merge_recursive($existingData, $crawlingResults);
+            
+            $jsonContent = json_encode($mergedData, JSON_PRETTY_PRINT);
+        } else {
+            echo "Failed to decode existing JSON content." . PHP_EOL;
+            return;
+        }
+    } else {
+        $jsonContent = json_encode($crawlingResults, JSON_PRETTY_PRINT);
     }
-}
 
-function writeArrayToJsonFile(array $crawlingResults, string $filename) {
-
-    $jsonContent = json_encode($crawlingResults, JSON_PRETTY_PRINT);
     file_put_contents($filename, $jsonContent);
     if (file_exists($filename)) {
-        echo "Data has been written to '$filename' successfully." . PHP_EOL;
+        
     } else {
         echo "Failed to write data to '$filename'." . PHP_EOL;
     }
 }
 
-// Example usage:
-$urlToCrawl = 'https://www.wikipedia.org/';
-$result = preprocessHtmlContent($urlToCrawl);
+function crawlUrlsUpToDepth($depthLimit, $url, $searchString)
+    {
+        $outputFilename = 'results.json';
+        if(file_exists($outputFilename)){
+            unlink($outputFilename);
+        }
+        $preprocessor = new Preprocessor();
+        $urlQueue = new SplQueue();
+        $urlQueue->enqueue([$url, 0]); // [URL, currentDepth]
+        $results = [];
 
-// Display the result
-if (isset($result['error'])) {
-    echo "Error: {$result['error']}\n";
-} else {
-    echo "Title: {$result['title']}\n";
-    echo "Paragraphs:\n";
-    foreach ($result['paragraphs'] as $paragraph) {
-        echo "- $paragraph\n";
-    }
-    foreach ($result['wikipediaLinks'] as $link) {
-        echo "- $link\n";
-    }
-}
+        while (!$urlQueue->isEmpty()) {
+            [$currentUrl, $currentDepth] = $urlQueue->dequeue();
 
-writeArrayToJsonFile($result,"results.json");
+            $result = $preprocessor->preprocessHtmlContent($currentUrl);
+            $search = new Search($result);
+            $searchResults = $search->searchInContent($searchString);
+            writeArrayToJsonFile($searchResults, $outputFilename);
+
+            if ($currentDepth < $depthLimit) {
+                $newUrls = $result['wikipediaLinks'];
+                foreach ($newUrls as $newUrl) {
+                    $urlQueue->enqueue([$newUrl, $currentDepth + 1]);
+                }
+            }
+        }
+
+        return $results;
+    }
+crawlUrlsUpToDepth(0,"https://en.wikipedia.org/wiki/Wikipedia:Contents/A%E2%80%93Z_index","Cat");
+
+
 ?>

@@ -1,15 +1,8 @@
 {
-    "url": "https:\/\/www.wikipedia.org\/",
-    "title": "Wikipedia",
-    "paragraphs": [
-        "Hi. Please don't skip this 1-minute read. Today, our nonprofit asks for your support. It matters. When Wikipedia was created, it was one of the first spaces online where you could learn for free, without ads. This space is yours. Just 2% of our readers donate, so whatever gift you can afford helps.",
-        "\u2014 The Wikimedia Foundation, host of Wikipedia and its sister sites.",
-        "If Wikipedia has given you $3 worth of knowledge this year, please give back.",
-        "There are no small contributions: every edit counts, every donation counts. Thank you.",
-        "Save your favorite articles to read offline, sync your reading lists across devices and customize your reading experience with the official Wikipedia app.",
-        "This page is available under the Creative Commons Attribution-ShareAlike License Terms of Use Privacy Policy"
-    ],
-    "wikipediaLinks": {
-        "315": "https:\/\/en.wikipedia.org\/wiki\/List_of_Wikipedia_mobile_applications"
+    "https:\/\/en.wikipedia.org\/wiki\/Wikipedia:Contents\/A%E2%80%93Z_index": {
+        "title": "Wikipedia:Contents\/A\u2013Z index - Wikipedia",
+        "matchedContents": [
+            "The MediaWiki software is case-sensitive; pages under AA will correspond to different pages compared with Aa. On each index page, italics indicate redirects. To view the index at the precise starting point of your choosing, use the Prefix index."
+        ]
     }
 }
