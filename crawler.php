@@ -5,6 +5,11 @@ require 'C:\xampp\htdocs\webcrawler\html_processor.php';
 require 'C:\xampp\htdocs\webcrawler\search.php';
 use Qasim\Preprocessor;
 use Qasim\Search;
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
+    $searchString = $_POST["searchString"];
+    $maxDepth = $_POST["maxDepth"];
+    $seedUrl = $_POST["seedUrl"];
+}
 function writeArrayToJsonFile(array $crawlingResults, string $filename)
 {   
     
@@ -38,6 +43,7 @@ function crawlUrlsUpToDepth($depthLimit, $url, $searchString)
         if(file_exists($outputFilename)){
             unlink($outputFilename);
         }
+
         $preprocessor = new Preprocessor();
         $urlQueue = new SplQueue();
         $urlQueue->enqueue([$url, 0]); // [URL, currentDepth]
@@ -49,7 +55,12 @@ function crawlUrlsUpToDepth($depthLimit, $url, $searchString)
             $result = $preprocessor->preprocessHtmlContent($currentUrl);
             $search = new Search($result);
             $searchResults = $search->searchInContent($searchString);
-            writeArrayToJsonFile($searchResults, $outputFilename);
+            if($searchResults != -1){
+                writeArrayToJsonFile($searchResults, $outputFilename);
+            }
+            
+            
+            
 
             if ($currentDepth < $depthLimit) {
                 $newUrls = $result['wikipediaLinks'];
@@ -58,10 +69,13 @@ function crawlUrlsUpToDepth($depthLimit, $url, $searchString)
                 }
             }
         }
+        if(!file_exists($outputFilename)){
+            writeArrayToJsonFile([], $outputFilename);
+        }
 
         return $results;
     }
-crawlUrlsUpToDepth(0,"https://en.wikipedia.org/wiki/Wikipedia:Contents/A%E2%80%93Z_index","Cat");
+crawlUrlsUpToDepth($maxDepth,$seedUrl,$searchString);
 
 
 ?>

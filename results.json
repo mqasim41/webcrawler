@@ -1,8 +1,420 @@
-{
-    "https:\/\/en.wikipedia.org\/wiki\/Wikipedia:Contents\/A%E2%80%93Z_index": {
-        "title": "Wikipedia:Contents\/A\u2013Z index - Wikipedia",
+[
+    {
+        "url": "https:\/\/en.wikipedia.org\/wiki\/Cat",
+        "title": "Cat - Wikipedia",
         "matchedContents": [
-            "The MediaWiki software is case-sensitive; pages under AA will correspond to different pages compared with Aa. On each index page, italics indicate redirects. To view the index at the precise starting point of your choosing, use the Prefix index."
+            "The cat Felis catus commonly referred to as the domestic cat or house cat is the only domesticated species in the family Felidae Recent advances in archaeology and genetics have shown that the domestication of the cat occurred in the Near East around 7500 BC It is commonly kept as a house pet and farm cat but also ranges freely as a feral cat avoiding human contact It is valued by humans for companionship and its ability to kill vermin Because of its retractable claws it is adapted to killing small prey like mice and rats It has a strong flexible body quick reflexes sharp teeth and its night vision and sense of smell are well developed It is a social species but a solitary hunter and a crepuscular predator Cat communication includes vocalizations like meowing purring trilling hissing growling and grunting as well as cat body language It can hear sounds too faint or too high in frequency for human ears such as those made by small mammals It also secretes and perceives pheromones",
+            "Female domestic cats can have kittens from spring to late autumn in temperate zones and throughout the year in equatorial regions with litter sizes often ranging from two to five kittens Domestic cats are bred and shown at events as registered pedigreed cats a hobby known as cat fancy Animal population control of cats may be achieved by spaying and neutering but their proliferation and the abandonment of pets has resulted in large numbers of feral cats worldwide contributing to the extinction of bird mammal and reptile species",
+            "A male cat is called a tom or tomcat11 or a gib12 if neutered A female is called a queen13 or a molly14usergenerated source if spayed especially in a catbreeding context A juvenile cat is referred to as a kitten In Early Modern English the word kitten was interchangeable with the nowobsolete word catling15 A group of cats can be referred to as a clowder or a glaring16",
+            "The scientific name Felis catus was proposed by Carl Linnaeus in 1758 for a domestic cat12 Felis catus domesticus was proposed by Johann Christian Polycarp Erxleben in 17773 Felis daemon proposed by Konstantin Satunin in 1904 was a black cat from the Transcaucasus later identified as a domestic cat1718",
+            "In 2003 the International Commission on Zoological Nomenclature ruled that the domestic cat is a distinct species namely Felis catus1920 In 2007 it was considered a subspecies F silvestris catus of the European wildcat F silvestris following results of phylogenetic research2122 In 2017 the IUCN Cat Classification Taskforce followed the recommendation of the ICZN in regarding the domestic cat as a distinct species Felis catus23",
+            "Domestic cat F catus",
+            "European wildcat F silvestris",
+            "African wildcat F lybica",
+            "Chinese mountain cat F bieti",
+            "Sand cat F margarita",
+            "Blackfooted cat F nigripes",
+            "Jungle cat F chaus",
+            "Domestic cat",
+            "Near Eastern wildcat",
+            "Asiatic wildcat",
+            "Southern African wildcat",
+            "European wildcat",
+            "Chinese mountain cat",
+            "Sand cat",
+            "It was long thought that the domestication of the cat began in ancient Egypt where cats were venerated from around 3100 BC3132 However the earliest known indication for the taming of an African wildcat was excavated close by a human Neolithic grave in Shillourokambos southern Cyprus dating to about 75007200 BC Since there is no evidence of native mammalian fauna on Cyprus the inhabitants of this Neolithic village most likely brought the cat and other wild mammals to the island from the Middle Eastern mainland33 Scientists therefore assume that African wildcats were attracted to early human settlements in the Fertile Crescent by rodents in particular the house mouse Mus musculus and were tamed by Neolithic farmers This mutual relationship between early farmers and tamed cats lasted thousands of years As agricultural practices spread so did tame and domesticated cats3034 Wildcats of Egypt contributed to the maternal gene pool of the domestic cat at a later time35",
+            "The earliest known evidence for the occurrence of the domestic cat in Greece dates to around 1200 BC Greek Phoenician Carthaginian and Etruscan traders introduced domestic cats to southern Europe36 During the Roman Empire they were introduced to Corsica and Sardinia before the beginning of the 1st millennium37 By the 5th century BC they were familiar animals around settlements in Magna Graecia and Etruria38 By the end of the Western Roman Empire in the 5th century the Egyptian domestic cat lineage had arrived in a Baltic Sea port in northern Germany35",
+            "The leopard cat Prionailurus bengalensis was tamed independently in China around 5500 BC This line of partially domesticated cats leaves no trace in the domestic cat populations of today39",
+            "During domestication cats have undergone only minor changes in anatomy and behavior and they are still capable of surviving in the wild Several natural behaviors and characteristics of wildcats may have preadapted them for domestication as pets These traits include their small size social nature obvious body language love of play and high intelligence Captive Leopardus cats may also display affectionate behavior toward humans but were not domesticated40 House cats often mate with feral cats41 Hybridisation between domestic and other Felinae species is also possible producing hybrids such as the Kellas cat in Scotland4243",
+            "Development of cat breeds started in the mid 19th century44 An analysis of the domestic cat genome revealed that the ancestral wildcat genome was significantly altered in the process of domestication as specific mutations were selected to develop cat breeds45 Most breeds are founded on randombred domestic cats Genetic diversity of these breeds varies between regions and is lowest in purebred populations which show more than 20 deleterious genetic disorders46",
+            "Cats have protractible and retractable claws54 In their normal relaxed position the claws are sheathed with the skin and fur around the paws toe pads This keeps the claws sharp by preventing wear from contact with the ground and allows for the silent stalking of prey The claws on the forefeet are typically sharper than those on the hindfeet55 Cats can voluntarily extend their claws on one or more paws They may extend their claws in hunting or selfdefense climbing kneading or for extra traction on soft surfaces Cats shed the outside layer of their claw sheaths when scratching rough surfaces56",
+            "Most cats have five claws on their front paws and four on their rear paws The dewclaw is proximal to the other claws More proximally is a protrusion which appears to be a sixth finger This special feature of the front paws on the inside of the wrists has no function in normal walking but is thought to be an antiskidding device used while jumping Some cat breeds are prone to having extra digits polydactyly57 Polydactylous cats occur along North Americas northeast coast and in Great Britain58",
+            "The cat is digitigrade It walks on the toes with the bones of the feet making up the lower part of the visible leg59 Unlike most mammals it uses a pacing gait and moves both legs on one side of the body before the legs on the other side It registers directly by placing each hind paw close to the track of the corresponding fore paw minimizing noise and visible tracks This also provides sure footing for hind paws when navigating rough terrain As it speeds up from walking to trotting its gait changes to a diagonal gait The diagonally opposite hind and fore legs move simultaneously60",
+            "The cat family Felidae can pass down many colors and patterns to their offspring The domestic cat genes MC1R and ASIP allow for the variety of color in coats The feline ASIP gene consists of three coding exons65 Three novel microsatellite markers linked to ASIP were isolated from a domestic cat BAC clone containing this gene and were used to perform linkage analysis in a pedigree of 89 domestic cats that segregated for melanismcitation needed",
+            "Cats have relatively few taste buds compared to humans 470 or so versus more than 9000 on the human tongue83 Domestic and wild cats share a taste receptor gene mutation that keeps their sweet taste buds from binding to sugary molecules leaving them with no ability to taste sweetness84 They however possess taste bud receptors specialized for acids amino acids like protein and bitter tastes85 Their taste buds possess the receptors needed to detect umami However these receptors contain molecular changes that make the cat taste of umami different from that of humans In humans they detect the amino acids of glutamic acid and aspartic acid but in cats they instead detect nucleotides in this case inosine monophosphate and lHistidine86 These nucleotides are particularly enriched in tuna86 This has been argued is why cats find tuna so palatable as put by researchers into cat taste the specific combination of the high IMP and free lHistidine contents of tuna  produces a strong umami taste synergy that is highly preferred by cats86 One of the researchers involved in this research has further claimed I think umami is as important for cats as sweet is for humans87",
+            "Cats conserve energy by sleeping more than most animals especially as they grow older The daily duration of sleep varies usually between 12 and 16 hours with 13 and 14 being the average Some cats can sleep as much as 20 hours The term cat nap for a short rest refers to the cats tendency to fall asleep lightly for a brief period While asleep cats experience short periods of rapid eye movement sleep often accompanied by muscle twitches which suggests they are dreaming92"
+        ]
+    },
+    {
+        "url": "https:\/\/af.wikipedia.org\/wiki\/Kat",
+        "title": "Kat - Wikipedia",
+        "matchedContents": [
+            "Felis silvestris catus",
+            "Die kat of huiskat is een van die oudste troeteldiere van die mens Dit is n klein gewoonlik harige vleisetende soogdier wat tot die biologiese familie Felidae katagtiges behoort Die ou wetenskaplike naam was Felis domesticus maar is later vervang deur Felis catus of soms Felis silvestris catus"
+        ]
+    },
+    {
+        "url": "https:\/\/ang.wikipedia.org\/wiki\/Catte",
+        "title": "Catte - Wikip\u01e3dia, s\u0113o fr\u0113o w\u012bsd\u014dmb\u014dc",
+        "matchedContents": [
+            "Felis lybica invalid junior synonymFelis catus invalid junior synonym"
+        ]
+    },
+    {
+        "url": "https:\/\/an.wikipedia.org\/wiki\/Felis_silvestris_catus",
+        "title": "Felis silvestris catus - Biquipedia, a enciclopedia libre",
+        "matchedContents": [
+            "O gato Felis catus L 1758 ye un mamifero domestico da familia dos Felidae felins carnivoro con unglas retractils de pelache preto y suau Ye estau domesticau dende fa bellas 7000 anyadas As crietas do gatos se dicen gatolins"
+        ]
+    },
+    {
+        "url": "https:\/\/as.wikipedia.org\/wiki\/%E0%A6%AE%E0%A7%87%E0%A6%95%E0%A7%81%E0%A7%B0%E0%A7%80",
+        "title": "\u09ae\u09c7\u0995\u09c1\u09f0\u09c0 - \u0985\u09b8\u09ae\u09c0\u09af\u09bc\u09be \u09f1\u09bf\u0995\u09bf\u09aa\u09bf\u09a1\u09bf\u09af\u09bc\u09be",
+        "matchedContents": [
+            "Felis silvestris catus subjective synonymFelis catus domestica invalid junior synonym1"
+        ]
+    },
+    {
+        "url": "https:\/\/atj.wikipedia.org\/wiki\/Minoc",
+        "title": "Minoc \u2014 Wikipetcia",
+        "matchedContents": [
+            "Felis silvestris catus Enko naha awesis minoc ka icinikasotc aric mitcetiwok papitoc e aicinakositcik wawatc tawok kirowe e iti mitcetiw aniskotapeckik Takoniw kewir e oracwetc irikik ke iskwarik ke ici pa taciketc acitc nipara ntoho kitci ki mitcisotc Micta sakitaw e nanosinehatc apikocica kirika mantcoca Taw minoc aka wiskat ka orowitc taw kirika mocak orowitimik ka wi taciketc Nama orina sakitaw nipiriw e takonik kekotc ma mekwata e micta kimionik Mocak piekoho kecpin e kiskeritak kitci mitci kicikarik aspinikotc tca nokwatam opiwi oskat kirika osita Itakiniw nicowasaw kata ki koski pimatisiw Kecpin peikwaw e nipotc Mictahi kackitaw e skwatowitc kirika micta ocpikwackotiw kaie kata ki minopariho kecpin e atcitinakaniwitc nikiska e pakicik Micta sakitaw e metowetc"
+        ]
+    },
+    {
+        "url": "https:\/\/av.wikipedia.org\/wiki\/%D0%9A%D0%B5%D1%82%D1%83",
+        "title": "\u041a\u0435\u0442\u0443 \u2014 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+        "matchedContents": [
+            " while the feral and freeliving domestic cat Felis catus can survive in the solitary state  social groups that have internal structure and in which group members recognize each other and engage in a variety of social behaviors are formed whenever there are sufficient food resources to support a group  In other words they are a social species"
+        ]
+    },
+    {
+        "url": "https:\/\/zh-min-nan.wikipedia.org\/wiki\/Niau",
+        "title": "Niau \u2013 Wikipedia",
+        "matchedContents": [
+            "Felis lybica Felis catus"
+        ]
+    },
+    {
+        "url": "https:\/\/be.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%82_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D1%96",
+        "title": "\u041a\u043e\u0442 \u0441\u0432\u043e\u0439\u0441\u043a\u0456 \u2014 \u0412\u0456\u043a\u0456\u043f\u0435\u0434\u044b\u044f",
+        "matchedContents": [
+            "Felis silvestris catus Linnaeus 1758"
+        ]
+    },
+    {
+        "url": "https:\/\/be-tarask.wikipedia.org\/wiki\/%D0%9A%D0%BE%D1%82",
+        "title": "\u041a\u043e\u0442 \u2014 \u0412\u0456\u043a\u0456\u043f\u044d\u0434\u044b\u044f",
+        "matchedContents": [
+            " while the feral and freeliving domestic cat Felis catus can survive in the solitary state  social groups that have internal structure and in which group members recognize each other and engage in a variety of social behaviors are formed whenever there are sufficient food resources to support a group  In other words they are a social species"
+        ]
+    },
+    {
+        "url": "https:\/\/bi.wikipedia.org\/wiki\/Puscat",
+        "title": "Puscat - Wikipedia",
+        "matchedContents": [
+            "Puscat em e wan animol we kala blo em e brawn o e whit o blak mo puscat em e wan animol we hair blo em e fulap mo pucat em e wan animol we em e stap pulum win blo em ariap mo puscat e gat nail spos u mekem em e kros bae e save scrajem u mo puscat e kakae eni kaen kakae nomo mo sorae bo em e long o e sot mo maut blo em e sot puscat e gat sap tit e save kakae u lem puscat e save arem u long we spos u wantem kilim em bae em e save ron we lo u puscat e save ron fas bitim man mo pusact e save klaem wud from e gat sap nail puscat e gat long tail mo em e fatfat mo puscat e gat fo leks mo puscat hair blo em e svae flae e ko ol baot mo spos man e pulum win lo em bae e save sotwin lo em o e save sik"
+        ]
+    },
+    {
+        "url": "https:\/\/bar.wikipedia.org\/wiki\/Hauskotz",
+        "title": "Hauskotz \u2013 Boarische Wikipedia",
+        "matchedContents": [
+            "De Hauskotz Felis silvestris f catus is a fleischfressads Spoviech de wo zua Famij vo de Kotzn gheat Wia scho da Nama sogt wead de Kotz ois Hausviech ghoidn"
+        ]
+    },
+    {
+        "url": "https:\/\/ceb.wikipedia.org\/wiki\/Iring",
+        "title": "Iring - Wikipedia",
+        "matchedContents": [
+            "Felis silvestris catus subjective synonym2Felis catus domestica invalid junior synonym3",
+            "Ang iring o kuring Felis catusmao ang usa sa duha ka labing popular nga binuhing mananap sa mga panimalay Ang usa mao ang iro Mahilig kini manakop og ilaga"
+        ]
+    },
+    {
+        "url": "https:\/\/sn.wikipedia.org\/wiki\/Mangoyi",
+        "title": "Mangoyi - Wikipedia",
+        "matchedContents": [
+            "Mangoi mangoyi kureva Cat Chishongrish Katsi kitsi Chikiti kana mangowe imhuka inopfuyiwa pamusha iri mumhuri ye nyamagowi felidae Vamwe vanochengeta mangoi nokudzida kubatsira kuuraya makonzo Mwana we mangoi anonzi chidharimbo"
+        ]
+    },
+    {
+        "url": "https:\/\/cy.wikipedia.org\/wiki\/Cath",
+        "title": "Cath - Wicipedia",
+        "matchedContents": [
+            "Felis catus",
+            "Maen heliwr celfydd a cheir dros fil o wahanol fathau Gellir ei hyfforddi i ufuddhau i orchmynion syml Mae rhai cathod penodol yn enwog am allu gweithio systemau mecanyddol syml fel dyrnau drysau Mae cathod yn defnyddio nifer o wahanol fathau o synau ac iaithgorfforol wrth gyfathrebu Gyda 600 miliwn o gathod fel anifeiliad anwes ledled y byd cathod maen bosib ywr anifail anwes mwyaf poblogaidd yn y byd2",
+            "Maer gath yn debyg o ran anatomeg ir rhywogaethau cathaidd arall mae ganddi gorff hyblyg cryf gydag atgyrchau cyflym dannedd miniog a chrafangau y gellir eu tynnu au moeli er mwyn lladd ysglyfaeth bach Mae ei golwg yn y nos ai synnwyr arogli wed datblygun dda Mae cyfathrebu cath yn cynnwys lleisiau fel mewian a chanu grwndi hisian chwyrlio a rhochian yn ogystal ag iaith y corff syn unigryw i gathod Mae fwyaf gweithgar gydar wawr ar cyfnos ac yn heliwr unig ond yn rhywogaeth gymdeithasol Gall glywed synau rhy wan neun rhy uchel o ran amledd  a synau syn rhy uchel i glustiau dynol fel y synau a wneir gan lygod a mamaliaid bach eraill6 Mae cathod hefyd yn secretu ac yn canfod arogl fferomonau7",
+            "Gall cathod dof benywaidd feichiogi rhwng y gwanwyn a diwedd yr hydref gyda meintiaur torllwyth yn aml yn amrywio o ddwy i bum cath fach8 Mae cathod dof yn cael eu bridio au harddangos mewn digwyddiadau fel cathod pedigri cofrestredig Gall ysbaddu effeithio ar boblogaeth cathod ond mae cathod ledled y byd ar gynnydd a phoblogaethau o adar yn gostwng9",
+            "Dofwyd y gath gyntaf yn y Dwyrain Agos tua 7500 CC10 Tybiwyd ers tro bod dofi cathod wedi dechrau yn yr hen Aifft lle roedd cathod yn cael eu parchu o tua 3100 CC1112 Yn 2020 amcangyfrifir bod 220 miliwn o gathod dan berchnogaeth a 480 wedi mynd yn y gwyllt1314 Yn 2017 y gath ddof oedd yr ail anifail anwes mwyaf poblogaidd yn yr Unol Daleithiau gyda 956 miliwn o gathod yn berchen151617 a tua 42 miliwn o gartrefi yn berchen ar o leiaf un gath18 Yn y Deyrnas Unedig mae gan 26 o oedolion gath ac amcangyfrifir bod poblogaeth y cathod anwes yn 109 miliwn erbyn 202019",
+            "Cynigiwyd yr enw gwyddonol Felis catus gan Carl Linnaeus ym 1758 ar gyfer cath ddof28 Cynigiwyd Felis catus domesticus gan Johann Christian Polycarp Erxleben ym 1777 Felis daemon a gynigiwyd gan Konstantin Alekseevich Satunin yn 1904 am y gath ddu or Transcaucasus a nodwyd yn ddiweddarach fel cath ddof2930",
+            "Mae gan y rhan fwyaf o gathod bum crafanc ar eu pawennau blaen a phedair ar eu pawennau cefn Ceir allwthiad hefyd syn ymddangos fel y chweched bys Nid oes gan y nodwedd arbennig hon or pawennau blaen y tu mewn ir arddyrnau unrhyw swyddogaeth mewn cerdded arferol ond credir ei fod yn ddyfais gwrthsgidio a ddefnyddir wrth neidio Mae rhai bridiau cathod yn dueddol o gael digidau ychwanegol61 Ceir cathod amldactylaidd ar hyd arfordir gogleddddwyrain Gogledd America ac yng ngwledydd Prydain62",
+            "Maer gath ddof yn rhywogaeth gosmopolitan ac mae iw chael ar draws llawer or byd50 Gall addasun sydyn i gynefinoedd newydd ac mae bellach yn bresennol ar bob cyfandir ac eithrior Antarctica ac ar 118 or 131 o brif grwpiau o ynysoedd hyd yn oed ar ynysoedd ynysig Kerguelen9394 Oherwydd ei gallu i ffynnu mewn bron unrhyw gynefin tirol mae ymhlith rhywogaethau mwyaf ymledol y byd95 Fei ceir ar ynysoedd bach heb drigolion dynol96 Gall cathod gwyllt fyw mewn coedwigoedd glaswelltiroedd twndra ardaloedd arfordirol tir amaethyddol prysgdiroedd ardaloedd trefol a gwlyptiroedd97",
+            "Yn Awstralia mae effaith cathod ar boblogaethau mamaliaid hyd yn oed yn fwy nag effaith colli cynefinoedd107 Lleddir dros miliwn o ymlusgiaid gan gathod gwyllt bob dydd syn cynrychioli 258 o rywogaethau108 Mae cathod wedi cyfrannu at ddifodiant madfall gynffon gyrliog Navassa ar Chioninia coctei109"
+        ]
+    },
+    {
+        "url": "https:\/\/de.wikipedia.org\/wiki\/Hauskatze",
+        "title": "Hauskatze \u2013 Wikipedia",
+        "matchedContents": [
+            "Hauskatze Felis catus"
+        ]
+    },
+    {
+        "url": "https:\/\/eu.wikipedia.org\/wiki\/Katu",
+        "title": "Katu - Wikipedia, entziklopedia askea.",
+        "matchedContents": [
+            "Katua edo etxekatua Felis catus1 edo batzuetan Felis silvestris catus animalia haragijale txiki gehienetan iletsu eta etxekotua da Karniboro ordenaren barruan Felidae familian sailkatzen da Beste felido batzuek ere katu izena izaten dutenez askotan etxe katua bereizteko erabiltzen da nahiz eta basakatua eta hura desberdinak izan Beharrik ez dagoenean katu hitza soilik nahikoa izaten da Katuak oso erabiliak dira konpainia emateko gizakiei eta saguak zein beste animalia ez gogoko batzuk ehizatzeko duten gaitasunagatik Katuak gizakiekin bizi dira gutxienez orain dela 9500 urtetik2 eta gaur egun konpainiaanimalia hedatuena da3 Gizakiekin batera bizi direnez mundu zabalean ia edonon daude",
+            "Bulletin of Zoological Nomenclaturen 2003ko martxoaren 31a 2027 iritzian11 Nomenklatura Zoologikoaren Nazioarteko Batzordeak berretsi zuen F silvestris erabiltzea basakatua izendatzeko eta F silvestris catus azpiespezie etxekotua izendatzeko erabiltzea"
+        ]
+    },
+    {
+        "url": "https:\/\/fr.wikipedia.org\/wiki\/Chat",
+        "title": "Chat \u2014 Wikip\u00e9dia",
+        "matchedContents": [
+            "Felis catus",
+            "Felis silvestris catus"
+        ]
+    },
+    {
+        "url": "https:\/\/fur.wikipedia.org\/wiki\/Gjat",
+        "title": "Gjat - Vichipedie",
+        "matchedContents": [
+            "Gjat Felis catus"
+        ]
+    },
+    {
+        "url": "https:\/\/gv.wikipedia.org\/wiki\/Kayt",
+        "title": "Kayt - Wikipedia",
+        "matchedContents": [
+            "Felis catus domestica Felis silvestris catus"
+        ]
+    },
+    {
+        "url": "https:\/\/gl.wikipedia.org\/wiki\/Gato",
+        "title": "Gato - Wikipedia, a enciclopedia libre",
+        "matchedContents": [
+            "F silvestris catus"
+        ]
+    },
+    {
+        "url": "https:\/\/ha.wikipedia.org\/wiki\/Kyanwa",
+        "title": "Kyanwa - Wikipedia",
+        "matchedContents": [
+            "Kyanwa ko Mage ko Mussa da Hausar Zamfarawa Felis catus"
+        ]
+    },
+    {
+        "url": "https:\/\/gor.wikipedia.org\/wiki\/Tete",
+        "title": "Tete - Wikipedia",
+        "matchedContents": [
+            "Tete deuyito heewani mamalia o uata wopato tanggulo ilmiahliyo Felis silvestris catus meyalo Felis catus biasaliyo hebiyahu lo manusia to delomo bele Tete ma lowali heewani u ngohuntuwa hebiyahu lo tawu to duniya kirakira ma loulawuwa wolo tawu mulayi mayi 6000 tawunu SM"
+        ]
+    },
+    {
+        "url": "https:\/\/io.wikipedia.org\/wiki\/Kato",
+        "title": "Kato - Wikipedio",
+        "matchedContents": [
+            "Kato Felis catus esas mamifero domestika de la genero karnavidi digitigrada karnivora kun ungli retrotirebla"
+        ]
+    },
+    {
+        "url": "https:\/\/ilo.wikipedia.org\/wiki\/Pusa",
+        "title": "Pusa - Wikipedia, ti nawaya nga ensiklopedia",
+        "matchedContents": [
+            "Ti pusa wenno napaamo a pusa Felis catus ket ti bassit a karniboro a mamalia12 Daytoy laeng ti napaamo a sebbangan iti pamilia ti Felidae4 Ti pusa ket mabalin a ti pusa iti balay kas maysa a taraken wenno maysa nga atap a pusa nawaya ken mangliklik iti pannakaiyasideg iti tao5 Ti maysa a pusa iti balay ket ipatpategan dagiti tao kas kadua para iti abilidadna nga aganup kadagiti rodensia Agarup a 60 a pulpuli ti pusa yi mabigbigan babaen dagiti nadumaduma rehistro ti pusa6"
+        ]
+    },
+    {
+        "url": "https:\/\/id.wikipedia.org\/wiki\/Kucing",
+        "title": "Kucing - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+        "matchedContents": [
+            "Kucing disebut juga kucing domestik45 atau kucing rumah nama ilmiah Felis silvestris catus atau Felis catus adalah sejenis mamalia karnivora dari keluarga Felidae Kata kucing biasanya merujuk kepada kucing yang telah dijinakkan6 tetapi bisa juga bisa merujuk kepada kucing besar seperti singa dan harimau yang juga termasuk jenis kucing",
+            "Saat ini kucing adalah salah satu hewan peliharaan terpopuler di dunia9 Kucing yang garis keturunannya tercatat secara resmi sebagai kucing trah atau galur murni pure breed seperti persia siam manx dan sphinx Kucing seperti ini biasanya dibiakkan di tempat pemeliharaan hewan resmi Jumlah kucing ras hanyalah 1 dari seluruh kucing di dunia sisanya adalah kucing dengan keturunan campuran seperti kucing liar atau kucing kampung Kucing juga merupakan jenis hewan peliharaan yang banyak diminati karena tingkah lakunya yang lucu",
+            "Kucing domestik pertama kali diklasifikasikan sebagai Felis catus oleh Carolus Linnaeus dalam edisi ke10 Systema Naturaenya yang diterbitkan pada tahun 1758413 Karena filogenetika modern kucing domestik biasanya dianggap sebagai subspesies dari kucing liar F silvestris1414 Hal ini mengakibatkan penggunaan istilah yang bercampur karena kucing domestik dapat disebut dengan nama subspesiesnya Felis silvestris catus1414 Kucing liar juga telah disebut sebagai berbagai subspesies F catus14 tetapi pada tahun 2003 International Commission on Zoological Nomenclature menetapkan nama untuk kucing liar sebagai F silvestris15 Nama yang paling umum digunakan untuk kucing domestik tetap F catus mengikuti konvensi untuk hewan peliharaan menggunakan sinonim pertama senior yang diusulkan15 Kadangkadang kucing domestik disebut sebagai Felis domesticus16 atau Felis domestica4 seperti yang diusulkan oleh naturalis Jerman J C P Erxleben pada tahun 1777 tetapi ini bukan namanama taksonomi valid dan jarang digunakan dalam literatur ilmiah16 karena binomial Linnaeus diutamakan17 Sebuah populasi kucing liar hitam Transkaukasia pernah diklasifikasikan sebagai Felis daemon Satunin 1904 tetapi sekarang populasi ini dianggap menjadi bagian dari kucing domestik18",
+            "Dibandingkan dengan anjing kucing tidak mengalami perubahan besar selama proses domestikasi karena bentuk dan perilaku kucing domestik tidak secara radikal berbeda dari kucing liar dan kucing domestik sangat mampu bertahan di alam liar2223 Kucing rumah yang sepenuhnya dijinakkan sering kawin silang dengan populasi F catus liar24 Evolusi terbatas selama domestikasi ini berarti bahwa hibridisasi dapat terjadi dengan banyak Felidae lainnya terutama kucing leopard Asia25 Beberapa perilaku alami dan karakteristik kucing liar mungkin telah memengaruhi mereka untuk didomestikasi sebagai hewan peliharaan23 Karakter ini termasuk ukuran kecil sifat sosial bahasa tubuh yang jelas suka bermain dan kecerdasan relatif tinggi261217 Beberapa spesies Felidae kecil mungkin memiliki kecenderungan bawaan terhadap kejinakan23",
+            "Karena memiliki kekerabatan yang dekat dengan binatang gurun ketahanan kucing terhadap panas dan dinginnya iklim daerah subtropis agak terbatas Kucing tidak tahan terhadap kabut hujan dan salju meskipun ada beberapa jenis seperti Norwegian Forest Cat dan Maine Coon yang mampu bertahan dan berusaha mempertahankan suhu tubuh normalnya yaitu 39C dalam keadaan basah Kebanyakan kucing tidak suka berendam dalam air kecuali jenis Turkish Van",
+            "Catatan paling awal tentang usaha domestikasi kucing adalah sekitar tahun 4000 SM di Mesir ketika kucing digunakan untuk menjaga toko bahan pangan dari serangan tikus Namun barubaru ini dalam sebuah makam di Shillourokambos Siprus bertahun 7500 SM ditemukan kerangka kucing yang dikuburkan bersama manusia Karena tikus bukanlah hewan asli Siprus hal ini menunjukkan bahwa paling tidak pada saat itu telah terjadi usaha domestikasi kucing Kerangka kucing yang ditemukan di Siprus ini mirip dengan spesies kucing liar yang merupakan nenek moyang kucing rumahan saat ini3637"
+        ]
+    },
+    {
+        "url": "https:\/\/ia.wikipedia.org\/wiki\/Catto_domestic",
+        "title": "Catto domestic - Wikipedia, le encyclopedia libere",
+        "matchedContents": [
+            "Le catto domestic fem catta Felis silvestris catus o Felis catus es un mammifero domestic del familia Felidae con ungulas retractile carnivoro de pilos dense e suave Insimul con le can illo es un del animales domestic le plus commun",
+            "Illo fluctua normalmente inter le 3 e le 8 kg de peso Alcun cattos como illos del racia ragdoll pote pesar plus de 8 kg Le cattos domestic pote viver circa 15 annos si ben curate Le catto plus longeve registrate viveva 34 annos",
+            "Le cauda servi pro mantener le equilibrio e pote fluctuar multo in talia Le cattos del racia Manx non ha cauda Su dentes e patas es adaptate a su stilo de vita carnivore",
+            "Le gestation del catta dura 55 die e illo parturi inter 2 e 6 cattones que lacta inter 3 e 4 septimanas",
+            "Le cattos ha un grande varietate de colores de pilos Illos pote haber le pilos longe o curte salvo le racia sphynx que non ha pilos",
+            "Le catto es un animal de compania Illo es plus independente que le can sed tamben pote esser multo affectuose",
+            "On debe habituar le catto al personas desde su infantia Per natura le catto es un animal chassator Le cattos de ferma vive de forma semisalvage e chassa muses e rattos animales damnose Multe cattos domestic occide insectos grande rattos e parve aves per instincto",
+            "Le catto esseva domesticate per le egyptianos circa 4000 adC pro le controlo de muses e rattos Pro illes le cattos esseva sacrate e le castigation pro occider un era le morte Le dea Bastet era representate con capite de catto",
+            "Non obstante in le Medievo on pensava que le cattos era proxime al magas o al Satan Durante le festas a vices on combureva cattos vive",
+            "On dice traditionalmente que le catto ha septe vitas novem pro le anglosaxones",
+            "Catta allactante",
+            "Catto chassator",
+            "Un catto addormite Le catto es un animal habitualmente silentiose e quiete",
+            "Le catto ha sensos multo disveloppate per exemplo le vista e le audito"
+        ]
+    },
+    {
+        "url": "https:\/\/ik.wikipedia.org\/wiki\/Kitiuraq",
+        "title": "Kitiuraq - Wikipedia",
+        "matchedContents": [
+            "Kitiuraq puusiuraq kiriuraq kusrkaq naagaa kitikitiq Taniktun cat"
+        ]
+    },
+    {
+        "url": "https:\/\/zu.wikipedia.org\/wiki\/Ikati",
+        "title": "Ikati - Wikipedia",
+        "matchedContents": [
+            "Ikati lasekhaya  elibizwa ngeFelis catus noma iFelis silvestris catus lincane livame ukuba noboya futhi lidla inyama Kaningi libizwa ikati lasendlini noma ngokulula ikati uma ngungekho sidingo sokulihlukanisa kwamanye Amakati ayigugu kakhulu kubantu ngoba abantu awathandela ubudlelwano abanalo nabo nokuzingela izinyoka kanye nezinye izilwane ezihluphayo endlini",
+            "Njengoba amakati wayekhonziwe eEgypt bekukholelwa ukuthi kwaqalwa lapho ukuthi amakati ayenziwe izilwane zasekhaya kodwa kungahle kube kuqale esikhathini seNeolithic Ucwaningo lofuzo olwayenziwa ngo2007 lukhombe ukuthi wonke amakati wasekhaya avela emakatini wasendle waseAfrica African Wild cats Felis silvestris lybica c 8000 BCE Emaphakathi neMpumalanga Okwamanje amakati adume kudlula zonke izilwane njengezilwane zasekhaya manje atholakala nanoma yikuphi emhlabeni"
+        ]
+    },
+    {
+        "url": "https:\/\/is.wikipedia.org\/wiki\/K%C3%B6ttur",
+        "title": "K\u00f6ttur - Wikipedia, frj\u00e1lsa alfr\u00e6\u00f0iriti\u00f0",
+        "matchedContents": [
+            "Felis silvestris catus"
+        ]
+    },
+    {
+        "url": "https:\/\/it.wikipedia.org\/wiki\/Felis_silvestris_catus",
+        "title": "Felis silvestris catus - Wikipedia",
+        "matchedContents": [
+            "La maggior parte dei gatti domestici viene alimentata con cibi industriali ad esempio croccantini o scatolette di umido mentre alla restante parte viene somministrata una dieta casalinga cotta o a crudo ad esempio la dieta BARF",
+            "Gatto con un picchio catturato",
+            "Gatto di quattro mesi mangia una rana catturata"
+        ]
+    },
+    {
+        "url": "https:\/\/kk.wikipedia.org\/wiki\/%D0%9C%D1%8B%D1%81%D1%8B%D2%9B",
+        "title": "\u041c\u044b\u0441\u044b\u049b \u2014 \u0423\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+        "matchedContents": [
+            "Felis silvestris catus subjective synonym"
+        ]
+    },
+    {
+        "url": "https:\/\/kw.wikipedia.org\/wiki\/Kath",
+        "title": "Kath - Wikipedia",
+        "matchedContents": [
+            "Kathes henwys ynwedh kathes dov Felis catus yw bronnviles kigdevoryer ow tybri kig an teylu Felidae"
+        ]
+    },
+    {
+        "url": "https:\/\/rw.wikipedia.org\/wiki\/Injangwe",
+        "title": "Injangwe - Wikipedia",
+        "matchedContents": [
+            "Injangwe Felis catus ni ubwoko bwinyamabere zinyamabere ntoya Ni bwo bwoko bwonyine bwororerwa mu muryango wa Felidae kandi bakunze kwitwa injangwe yo mu rugo kugira ngo butandukane nabanyamashyamba bo mu muryango Injangwe irashobora kuba injangwe yo munzu injangwe yumurima cyangwa injangwe isanzwe ibyanyuma bigenda byisanzuye kandi birinda guhura nabantu Injangwe zo mu rugo zihabwa agaciro nabantu kubusabane nubushobozi bwabo bwo guhiga imbeba Ubwoko bwinjangwe bugera kuri 60 buramenyekana mubyanditswe bitandukanye"
+        ]
+    },
+    {
+        "url": "https:\/\/sw.wikipedia.org\/wiki\/Paka-kaya",
+        "title": "Paka-kaya - Wikipedia, kamusi elezo huru",
+        "matchedContents": [
+            "Kwa sababu ya kuishi karibu sana na binadamu magonjwa ya paka huenda yakaambukizwa kwa binadamu Paka huenda akawa na virusi bakteria fungi au hata vimelea kama chawa ambao wataambukizwa kwa binadamu Maradhi huenda yakawa hayaonekani kwa paka lakini akiambukizwa binadamu huwa basi yanaonekana Magonjwa haya ni kama salmonella kujikunakuna cat scratch disease na toxoplasmosis Ili kujikinga yafaa paka apulizwe kwa dawa na pia kupelekwa kwa daktari wa wanyama mara kwa mara"
+        ]
+    },
+    {
+        "url": "https:\/\/la.wikipedia.org\/wiki\/Feles",
+        "title": "Feles - Vicipaedia",
+        "matchedContents": [
+            "Etiam Romani antiqui feles aluerunt Ossa felium inventa sunt Ostiae et in Campania attributa saeculis VIII aCn16 Tempore imperii mosaicae Pompeiis conservatae feles monstrant Sepulcrum cuiusdam Calpurniae Feliclae saeculo secundo erectum imaginem felis habet quod nomen Felicla significat parva feles inscriptio huius sepulchri est",
+            "Alius sonus proprius felis est murmur dulce murmurillum nomine qui saepius significat animum felis contentum esse Catulus fere unam septimanam natus potest murmurare43",
+            "Carolus Baudelaire poeta Francogallicus complura carmina de felibus scripsit sicut Veni feles pulcher supra cor meum amans Francogallice Viens mon beau chat sur mon coeur amoureux quod carmen simile est carmini secundo Catulli de puellae passere",
+            "In libris Ludovici Carroll quorum tituli sunt Alicia in Terra Mirabili et Aliciae per speculum transita sunt complures feles Notissima est feles Castriana quae apparet et evanescit semper subridens Feles Aliciae ipsius est Dina et Alicia catulos Dinae spectans die quodam hiemali dormitat et per speculum it"
+        ]
+    },
+    {
+        "url": "https:\/\/lez.wikipedia.org\/wiki\/%D0%9A%D0%B0%D1%86",
+        "title": "\u041a\u0430\u0446 \u2014 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+        "matchedContents": [
+            "Felis silvestris catus Linnaeus 1758"
+        ]
+    },
+    {
+        "url": "https:\/\/nia.wikipedia.org\/wiki\/Mao",
+        "title": "Mao - Wikipedia",
+        "matchedContents": [
+            "Sinura sifakhai ba Ocicat"
+        ]
+    },
+    {
+        "url": "https:\/\/lfn.wikipedia.org\/wiki\/Gato",
+        "title": "Gato - Vicipedia",
+        "matchedContents": [
+            "Gatos domada Felis catus es mamales carnivor peti e normal pelosa Los es comun asetada como animales de casa Los es ance valuada per sua capasia de xasa animales nosiva como muses"
+        ]
+    },
+    {
+        "url": "https:\/\/mg.wikipedia.org\/wiki\/Saka",
+        "title": "Saka \u2014 Wikipedia",
+        "matchedContents": [
+            "Ny saka Felis silvestris catus dia biby mampinono ao amin ny fianankavian ny felidae Anisan ny biby mipetraka ao antranon olona izy ary misy karazana dimampolo fantatry ny sehatra fanaovana fanamarinana"
+        ]
+    },
+    {
+        "url": "https:\/\/ml.wikipedia.org\/wiki\/%E0%B4%AA%E0%B5%82%E0%B4%9A%E0%B5%8D%E0%B4%9A",
+        "title": "\u0d2a\u0d42\u0d1a\u0d4d\u0d1a - \u0d35\u0d3f\u0d15\u0d4d\u0d15\u0d3f\u0d2a\u0d40\u0d21\u0d3f\u0d2f",
+        "matchedContents": [
+            "Felis catus domestica invalid junior synonym4 Felis silvestris catus5"
+        ]
+    },
+    {
+        "url": "https:\/\/ms.wikipedia.org\/wiki\/Kucing",
+        "title": "Kucing - Wikipedia Bahasa Melayu, ensiklopedia bebas",
+        "matchedContents": [
+            "Felis ialah sebuah genus mamalia yang berkembang pesat yang berkongsi moyang yang sama hanya 1015 juta tahun yang lalu10 dan merangkumi singa harimau kugar dan lainlain lagi Dalam keluarga ini kucing domestik Felis catus ialah sebahagian daripada genus Felis yang merupakan kumpulan kucing kecil yang mengandungi kirakira tujuh spesies bergantung kepada skema klasifikasi211 Ahliahli genus didapati di seluruh dunia dan merangkumi kucing hutan Felis chaus di Asia Tenggara liar Eropah F silvestris silvestris liar Afrika F s lybica kucing gunung China F bieti dan kucing pasir Arab F margarita serta lainlain lagi12",
+            "Kucing domestik pertama kali diklasifikasikan sebagai Felis catus oleh Carl Linnaeus dalam edisi ke10 Systema Naturae yang diterbitkan pada tahun 1758213 Lantaran filogenetik moden kucing domestik biasanya dianggap sebagai satu lagi subspesies liar itu F silvestris21415 Ini telah menyebabkan penggunaan campuran terma kerana kucing domestik boleh dipanggil dengan nama subspesies kemuncak Felis silvestris catus21415 Kucing liar juga telah dirujuk sebagai pelbagai subspesies F catus15 tetapi pada tahun 2003 Suruhanjaya Antarabangsa Tatanama Zoologi menetapkan nama untuk kucing liar sebagai F silvestris16 Nama yang paling biasa digunakan untuk kucing domestik kekal F catus berikutan konvensyen untuk haiwan ternakan menggunakan sinonim yang paling awal kanan yang dicadangkan16 Kadangkadang kucing domestik dipanggil Felis domesticus17 atau Felis domestica2 seperti yang dicadangkan oleh naturalis Jerman JCP Erxleben pada 1777 tetapi ini bukanlah namanama taksonomi sah dan telah jarang digunakan dalam kesusasteraan saintifik18 kerana binomial Linnaeus yang diutamakan19 Populasi kucing liar hitam Transkaukasia pernah diklasifikasikan sebagai Felis daemon Satunin 1904 tetapi kini populasi ini dianggap sebagai sebahagian kucing domestik20",
+            "Berbanding anjing kucing tidak menjalani perubahan besar semasa proses penjinakan lantaran bentuk dan tingkah laku kucing domestik tidak keterlaluan berlainan dengan kucing liar dan kucing domestik mampu hidup di hutan2425 Kucing rumah yang dijinakkan sepenuhnya sering dibiakkan dengan populasi liar F catus26 Evolusi terbatas semasa penjinakan bermakna penghibridan boleh berlaku dengan banyak di antara felid lain terutamanya harimau kucing Asia Beberapa tingkah laku semula jadi dan ciriciri kucing liar barangkali telah meyesuaikan mereka untuk dijinakkan sebagai haiwan kesayangan25 Ciriciri ini termasuk saiz mereka kecil bersifat sosial bahasa badan yang jelas minat bermain dan kecerdasan yang tinggi27 Beberapa spesies felis kecil barangkali mempunyai kecenderungan semula jadi ke arah penjinakan25",
+            "Kucing keturunan baik ialah kucing yang keturunannya diiktiraf secara tercatat oleh sebuah pertubuhan kucing pelamun Kucing baka tulen ialah seekor kucing yang mana keturunannya mengandungi hanya individu baka yang sama Banyak kucing keturunan baik dan terutamanya ras dipamerkan sebagai kucing pertunjukan Kucing yang tidak dicatatkan keturunan yang bercampuran boleh merujuk kepada kucing domestik berambut panjang atau berambut pendek mengikut jenis kot atau lebih sebagai rawak santun moggies terutamanya dalam bahasa Inggeris British atau menggunakan istilah yang dipinjam daripada pembiakan anjing mongrel atau anjing kampung",
+            "Kucing mempunyai rasa akut bau sebahagiannya disebabkan oleh mentol pencium mereka yang maju dan permukaan yang besar mukosa pencium kirakira 58 cm2 090 in2 di kawasan iaitu kirakira dua kali ganda berbanding manusia Kucing adalah sensitif kepada feromon seperti 3mercapto3methylbutan1ol yang mereka gunakan untuk berkomunikasi melalui air kencing penyemburan dan menandakan dengan kelenjar bau Banyak kucing juga bertindak balas dengan kuat kepada tumbuhtumbuhan yang mengandungi nepetalakton terutama pokok catnip kerana mereka boleh mengesan bahan yang kurang daripada satu bahagian per bilion Kirakira 7080 daripada kucing dipengaruhi oleh nepetalakton Tindak balas ini juga dihasilkan oleh tumbuhtumbuhan lain seperti anggur perak Actinidia polygama dan herba valerian ia mungkin disebabkan oleh bau tumbuhan ini meniru feromon dan merangsang tingkah laku sosial atau seksual kucing"
+        ]
+    },
+    {
+        "url": "https:\/\/min.wikipedia.org\/wiki\/Kuciang",
+        "title": "Kuciang - Wikipedia baso Minang",
+        "matchedContents": [
+            "Kuciang felis silvetris catus adolah sajinih mamalia dagiang dari kalurgo Felidae",
+            "Kuciang alah manjadi bagian dari kahidupan manusia sajak anam ribu tahun sabalun Masihi Urang Mesir Kuno dari tahun 3500 SM alah mamakai kuciang untuak mangarek mancik dari rangkiang padi nan manyimpan hasil tuai Pado hari cako kuciang adolah salah satu hewan paliaroan manusia nan paliang populer di dunia Kuciang nan garih katurunannyo tacataik rasmi sabagai kuciang trah nan murni pure breed cando kuciang Persia kuciang Siam kuciang Manx jo kuciang Sphinx Kuciang saroman ko biasonyo dijinakkan sarato dipaliaro di tampek nan elokelok"
+        ]
+    },
+    {
+        "url": "https:\/\/cdo.wikipedia.org\/wiki\/M%C3%A0",
+        "title": "M\u00e0 - Wikipedia",
+        "matchedContents": [
+            "Felis lybica Felis catus"
+        ]
+    },
+    {
+        "url": "https:\/\/fj.wikipedia.org\/wiki\/Pusi",
+        "title": "Pusi - Wikipedia",
+        "matchedContents": [
+            "Pusi Felis catus  E dua na manumanu"
+        ]
+    },
+    {
+        "url": "https:\/\/nl.wikipedia.org\/wiki\/Kat_(dier)",
+        "title": "Kat (dier) - Wikipedia",
+        "matchedContents": [
+            "De kat of huiskat Felis silvestris catus is een van de oudste huisdieren van de mens De gedomesticeerde kat behoort tot de familie der katachtigen Felidae Ook het woord poes is gangbaar soms meer specifiek in het geval van een vrouwelijke kat Een mannelijke kat heet een kater en een jong katje een kitten",
+            "De wetenschappelijke naam van de kat werd in 1758 als Felis catus gepubliceerd door Carl Linnaeus in de tiende druk van Systema naturae1 De naam van de wilde kat waarvan de gedomesticeerde kat afstamt werd in 1777 door Johann Christian von Schreber gepubliceerd als Felis silvestris Van veruit de meeste dieren die gedomesticeerd zijn is de wetenschappelijke naam afgeleid van de naam van de in het wild levende voorouders In 2003 stelde de International Commission on Zoological Nomenclature in Opinion 2027 vast dat dit principe voor alle gedomesticeerde soorten gevolgd moet worden en dat de naam van de wilde soort prioriteit heeft over die van de gedomesticeerde vorm ook als die laatste eerder is gepubliceerd Als de gedomesticeerde kat wordt beschouwd als een ondersoort van de wilde kat dan is de correcte naam voor de soort Felis silvestris en het trinomen voor de ondersoort Felis silvestris catus",
+            "De kat gebruikt zijn staart als communicatieorgaan tussen soortgenoten en bij het bewaren van het evenwicht Door de flexibele ruggengraat kan de kat zich bij een val omkeren en op de poten terechtkomen Dit kan enkel bij een vrij hoge val zodat het dier de ruimte en tijd heeft om dit te doen Er zijn ook katten met korte of ontbrekende staart Op het eiland Man komt een ras voor met zeer korte of compleet missende staart de manx In het Verre Oosten komen er katten voor met staartstompjes of gebogen korte staarten In Japan is daar een ras uit gefokt de Japanse stompstaartkat",
+            "Katten maken een laag zoemgeluid dat spinnen wordt genoemd Het is een manier om allerlei gevoelens uit te drukken van angst en pijn tot tevredenheid5 In de omgang met mensen is het meestal een teken dat ze tevreden zijn soms dat ze hulp nodig hebben Dit geluid wordt voortgebracht door trillingen van de stembanden8 Spinnen is een communicatiemiddel tussen kittens en moeders Kittens kunnen spinnen als ze een week oud zijn",
+            "Er zijn verschillende communicatieve signalen van katten die zij ook begrijpen wanneer ze door mensen gegeven worden Communiceren met een kat zal de band met de kat wederzijds versterken Enkele voorbeelden22",
+            "Vrouwtjes poezen leven gemiddeld langer dan katers3135 Ook castratie of sterilisatie verhoogt de gemiddelde levensduur35 Katten welke lijden aan obesitas of juist ondervoed zijn leven gemiddeld juist korter dan katten op streefgewicht31 Ook leven binnenkatten langer dan buitenkatten omdat deze minder gevaar lopen op letsel parasieten vergiftiging of overdraagbare ziekten3637 Er zit zelfs meer dan 10 jaar verschil in levensduur tussen een kat die volledig binnen wordt gehouden 1517 jaar en een kat die volledig buiten leeft 25 jaar38 Katten welke alleen overdag buiten komen leven gemiddeld 2 tot 3 jaar korter dan binnenkatten37 Het advies luidt dan ook om katten binnen te houden maar wel met genoeg uitdaging en beweging3837 Een afgesloten tuin balkon catio of andere vorm van buitenren kan een uitkomst bieden voor katten om op een veilige manier buiten te komen daarnaast kan dit mogelijk door het uitlaten van de kat met een speciaal kattenharnas363738 Daarnaast kan de levensduur van katten worden verlengd door regelmatig de kat te laten controleren door een dierenarts het door een dierenarts aangeraden vaccinatie ontwormings en ontvlooiingsschema te volgen en de kat op streefgewicht te houden3637"
+        ]
+    },
+    {
+        "url": "https:\/\/nds-nl.wikipedia.org\/wiki\/Kat",
+        "title": "Kat - Wikipedia",
+        "matchedContents": [
+            "De olde wetenschappelike name was Felis domesticus maor is later vervangen deur Felis catus of somtieds Felis silvestris catus"
+        ]
+    },
+    {
+        "url": "https:\/\/frr.wikipedia.org\/wiki\/Kaat",
+        "title": "Kaat \u2013 Wikipedia",
+        "matchedContents": [
+            "Kaat Felis silvestris catus"
+        ]
+    },
+    {
+        "url": "https:\/\/pcd.wikipedia.org\/wiki\/Cot",
+        "title": "Cot \u2014 Wikipedia",
+        "matchedContents": [
+            "cat1 Felis sylvestris catus"
         ]
     }
-}
+]
