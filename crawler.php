@@ -9,39 +9,49 @@ function getHtmlContent($url) {
 
 require 'C:\xampp\htdocs\vendor\autoload.php';
 
-use Goutte\Client;
+use Symfony\Component\BrowserKit\HttpBrowser;
 
 function preprocessHtmlContent($url) {
-    // Create a new Goutte client
-    $client = new Client();
+    $httpClient = new HttpBrowser();
 
     try {
-        // Send a GET request to the URL
-        $crawler = $client->request('GET', $url);
-
-        // Extract the title from the HTML
+        
+        $crawler = $httpClient->request('GET', $url);
         $title = $crawler->filter('title')->text();
-
-        // Extract all paragraph texts from the HTML
+        $links = $crawler->filter('a')->extract(['href']);
+        // Filter out external links and non-article links
+        $filteredLinks = array_filter($links, function ($link) {
+            return strpos($link, 'wikipedia.org/wiki/') !== false;
+        });
         $paragraphs = $crawler->filter('p')->each(function ($node) {
             return $node->text();
         });
-
-        // Create an associative array with the extracted data
         $result = [
+            'url' => $url,
             'title' => $title,
             'paragraphs' => $paragraphs,
+            'wikipediaLinks' => $filteredLinks
         ];
-
         return $result;
+
     } catch (\Exception $e) {
-        // Handle exceptions (e.g., invalid URL, connection issues, etc.)
         return ['error' => $e->getMessage()];
     }
 }
 
+function writeArrayToJsonFile(array $crawlingResults, string $filename) {
+
+    $jsonContent = json_encode($crawlingResults, JSON_PRETTY_PRINT);
+    file_put_contents($filename, $jsonContent);
+    if (file_exists($filename)) {
+        echo "Data has been written to '$filename' successfully." . PHP_EOL;
+    } else {
+        echo "Failed to write data to '$filename'." . PHP_EOL;
+    }
+}
+
 // Example usage:
-$urlToCrawl = 'https://stackoverflow.com/questions/26224566/laravel-class-not-found-because-of-vendor-folder';
+$urlToCrawl = 'https://www.wikipedia.org/';
 $result = preprocessHtmlContent($urlToCrawl);
 
 // Display the result
@@ -53,5 +63,10 @@ if (isset($result['error'])) {
     foreach ($result['paragraphs'] as $paragraph) {
         echo "- $paragraph\n";
     }
+    foreach ($result['wikipediaLinks'] as $link) {
+        echo "- $link\n";
+    }
 }
+
+writeArrayToJsonFile($result,"results.json");
 ?>
